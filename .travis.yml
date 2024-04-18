@@ -2,7 +2,7 @@ dist: bionic
 sudo: required
 
 notifications:
-  email: false
+  email: true
 
 cache:
   cargo: true
